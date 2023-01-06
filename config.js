@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['6287793236775'] 
 //Developer Bot
 global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
-global.police = ['6285850539404'] // Police Bot
-global.mods = ['6285850539404']  // Want some help?
-global.prems = ['6285850539404'] // Premium user has unlimited limit
+global.rowner = ['6287793236775', '6287793236775'] // Real Owner Bot
+global.owner = ['6287793236775'] // Owner Bot
+global.police = ['6282147562437'] // Police Bot
+global.mods = ['6287793236775']  // Want some help?
+global.prems = ['6287793236775'] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['6287793236775']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -77,16 +77,16 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia oscar Jangan Di Ganti Kalo Bisa!!
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
-global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
+global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/SxyoBotz1?tab=repositories"
+global.sgc = 'https://chat.whatsapp.com/JMzJFVIGNZU7lWk9bpq91D'
+global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JMzJFVIGNZU7lWk9bpq91D'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/ahmdzakaria47'
+global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@SxyoBotz'
+global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/JMzJFVIGNZU7lWk9bpq91D'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'SxyoBotz'
+global.author = '@ahmdzakaria'
+global.wm = '© sxyobotz'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
